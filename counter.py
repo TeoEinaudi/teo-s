@@ -1,6 +1,4 @@
-from collections import Counter
+import numpy as np
 
-c = Counter()
-
-c['red'] += 1
-print(c)
+simplelist = [19, 242, 14, 152, 142, 1000]
+print(np.mean(simplelist))
