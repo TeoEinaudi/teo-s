@@ -7,6 +7,7 @@
 </picture>
 
 ### **Ссылка** на cvs-файл для загрузки: [Жми сюда](https://drive.google.com/file/d/1oMj2KfNs_XO6pEz06uciI_3LfYnrl-Fg/view?usp=sharing).
+### [!Проект тут!](https://github.com/TeoEinaudi/teo-s/blob/Attestation/Attestation/Project-1.%20Ноутбук-шаблон%20(2).ipynb)
 
 ## **Целью** данного проекта являлся анализ резюме 44744 соискателей.
 
